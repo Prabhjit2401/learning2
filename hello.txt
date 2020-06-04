@@ -1,2 +1,1 @@
-this is me
-for u
+this is git,being used for web developement
